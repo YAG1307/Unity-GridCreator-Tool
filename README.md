@@ -2,6 +2,8 @@
 
 Instead of manually dragging and positioning individual prefabs, GridCreator tool lets you paint directly into the Scene View using a customizable prefab palette.
 
+#Demo GIF
+
 ![GridCreator Demo](GridPainter%20GIF.gif)
 
 ## Features

@@ -2,7 +2,7 @@
 
 A Unity Editor utility built to make 2D level layout faster and less repetitive. Instead of dragging individual prefabs into the scene and manual-snapping them, this tool adds a custom editor window to paint tiles directly in the Scene View. 
 
-![GridCreator Demo](PASTE_YOUR_GIF_OR_IMAGE_LINK_HERE)
+![GridCreator Demo]
 
 ## Features
 - **Weighted Tile Spawning:** Assign probability weights to prefabs in your palette so grass, rocks, or flowers scatter naturally while painting grids.

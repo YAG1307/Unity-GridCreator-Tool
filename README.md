@@ -4,7 +4,7 @@ Instead of manually dragging and positioning individual prefabs, GridCreator too
 
 # Demo GIF
 
-![GridCreator Demo](GridPainter%20GIF.gif)
+![GridCreator Demo](Demo GIF GridCreator%20GIF.gif)
 
 ## Features
 - **Weighted Tile Spawning:** Assign probability weights to prefabs in your palette so grass, rocks, or flowers scatter naturally while painting grids.

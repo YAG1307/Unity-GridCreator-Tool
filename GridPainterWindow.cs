@@ -59,7 +59,7 @@ public class GridCreator : EditorWindow
             painting = !painting;
         }
 
-        isErasing = EditorGUILayout.Toggle("Erase Mode (Hold Shift)", isErasing);
+        isErasing = EditorGUILayout.Toggle("Erase Mode (Or Hold Shift)", isErasing);
     }
 
     private void OnSceneGUI(SceneView sceneView)

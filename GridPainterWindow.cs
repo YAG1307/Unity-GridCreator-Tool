@@ -120,15 +120,15 @@ public class GridCreator : EditorWindow
             if (sr != null) sr.color = myColor;
         }
         Undo.RegisterCreatedObjectUndo(newTile, "Paint Grid");
-        PlacedTitles[gridPosition] = newTile;
+        PlacedTiles[gridPosition] = newTile;
     }
 
     private void EraseTile(Vector3Int gridPosition)
     {
-        if (PlacedTitles.TryGetValue(gridPosition, out GameObject oldTile))
+        if (PlacedTiles.TryGetValue(gridPosition, out GameObject oldTile))
         {
             if (oldTile != null) Undo.DestroyObjectImmediate(oldTile);
-            PlacedTitles.Remove(gridPosition);
+            PlacedTiles.Remove(gridPosition);
         }
     }
 

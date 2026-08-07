@@ -2,7 +2,7 @@
 
 Instead of manually dragging and positioning individual prefabs, GridCreator tool lets you paint directly into the Scene View using a customizable prefab palette.
 
-![GridCreator Demo](GridPainter GIF.gif)
+![GridCreator Demo](GridPainter%20GIF.gif)
 
 ## Features
 - **Weighted Tile Spawning:** Assign probability weights to prefabs in your palette so grass, rocks, or flowers scatter naturally while painting grids.
